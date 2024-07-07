@@ -1,0 +1,13 @@
+Task 3 : Money Tracker WebApp
+Build a money tracker app for managing expenses and income using HTML, CSS, Node.js, and MongoDB.
+1.public
+|
+| - index.html
+|
+| - style.css
+|
+|-script.js
+
+2.index.js
+3.package.json
+4.pakage-lock.json
